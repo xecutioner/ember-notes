@@ -32,7 +32,7 @@ https://guides.emberjs.com/v2.4.0/getting-started/quick-start/
   - ember components
 
 ## Building for production
-ember build --env production
+ - ember build --env production
 
 ## Diving into ember
   - https://guides.emberjs.com/v2.4.0/tutorial/ember-cli/
