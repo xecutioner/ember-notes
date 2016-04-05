@@ -1,8 +1,8 @@
 # Installation
-brew install node
-npm install -g ember-cli
-npm install -g bower
-brew install watchman
+ - brew install node
+ - npm install -g ember-cli
+ - npm install -g bower
+ - brew install watchman
 
 
 
